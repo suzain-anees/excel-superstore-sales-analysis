@@ -14,7 +14,7 @@ This project analyzes retail sales data from a Superstore dataset using Microsof
 - Data Cleaning  
 - Interactive Dashboard
 
-#  Key Recommended Analysis
+# 🚀 Key Recommended Analysis
 - Which region generates the highest sales?  
 - Which category is most profitable?  
 - What are the monthly sales trends?  
